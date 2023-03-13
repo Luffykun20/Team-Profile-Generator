@@ -1,4 +1,5 @@
-const Intern = require("../lib/intern")
+//tests to prove Intern class methods and properties 
+const Intern = require("../libs/intern")
 
 describe("Intern class", () => {
     it("should create an object extending properties and methods from 'Employee' class, and adding a new paramether, school", () => {

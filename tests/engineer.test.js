@@ -1,4 +1,5 @@
-const Engineer = require("../lib/engineer");
+//tests to prove Engineer class methods and properties 
+const Engineer = require("../libs/engineer");
 
 describe ("Engineer class", () => {
     it("should create an object extending properties and methods from 'Employee' class , and adding a new parameter, gitHub", () => {
