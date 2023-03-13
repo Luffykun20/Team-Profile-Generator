@@ -1,5 +1,5 @@
 //tests to prove Manager class methods and properties 
-const Manager = require ("../libs/manager");
+const Manager = require ("../lib/manager");
 
 describe("Manager class", () => {
     it("should create an object extending properties and methods from 'Employee' class, and adding a new parameter, officeNumber.", () => {

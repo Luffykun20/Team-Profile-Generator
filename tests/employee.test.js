@@ -1,5 +1,5 @@
 //tests to prove Employee class methods and properties 
-const Employee = require("../libs/employee");
+const Employee = require("../lib/employee");
 
 describe("Employee class", () => {
     it("should create an object with name, id, and email as parameters", () => {
