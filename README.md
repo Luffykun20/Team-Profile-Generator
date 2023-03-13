@@ -28,7 +28,8 @@ To use this application, open VS Code, open the terminal of your preference, ent
 The following video link demostrates the steps four using this application: [Demostration]
 
 
-The following image shows how the Team-Profile website will look like:
+The following image shows how the Team-Profile website will look like: [DemostrationVideo](https://drive.google.com/file/d/1R2_cjcYuZGVCXOzEj4FOE4uwt-9no-ve/view)
+
 ![MyTeam-Profile](assets/MyTeam.PNG)
     
 
